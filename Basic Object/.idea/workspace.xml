@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5047f3f-63d8-4421-afb3-09076422741b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MethodBasic/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodBasic/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodBasic/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodBasic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodBasic/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodBasic/src/Audible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodBasic/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodTest/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodTest/src/com/epam/training/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Store/src/epam/tam2019/discounts/Discount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Store/src/epam/tam2019/order/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Store/src/epam/tam2019/order/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Store/src/epam/tam2019/products/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Store/src/epam/tam2019/products/Electonics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Store/src/epam/tam2019/products/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Store/src/epam/tam2019/products/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loop-in-array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loop-in-array/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loop-in-array/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hangman/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hangman/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hangman/out/production/Hangman/epam/tam2019/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hangman/out/production/Hangman/epam/tam2019/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hangman/src/epam/tam2019/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hangman/src/epam/tam2019/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SandboxProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SandboxProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SandboxProject/out/production/SandboxProject/META-INF/SandboxProject.kotlin_module" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\workspace\playground\idea-tutorial\Basic Object\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.gitignore" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PRq75vkCaCtHCHmsM20DNZeTW1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Linkedin/Ex_Files_Learning_Java/OwnVersion/Basic Object" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.training.Main" />
+      <module name="Basic Object" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5047f3f-63d8-4421-afb3-09076422741b" name="Default Changelist" comment="" />
+      <created>1565847085949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565847085949</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

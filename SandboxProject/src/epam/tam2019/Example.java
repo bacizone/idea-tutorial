@@ -4,12 +4,49 @@ public class Example {
 
     public static void main(String[] args) {
 
-        int a = 1337;
-        int b = 42;
-        int result = a * b; // Fix this
 
-        String multiplication = a + " * " + b + " = " + result;
-        System.out.println(multiplication);
+
+    }
+}
+
+
+
+
+//        int x = 1;
+//        while (x < 4) {
+//            System.out.print("Doo");
+//            System.out.print("Bee");
+//            x = x + 1;
+//        }
+//
+//        if (x == 4) {
+//            System.out.print("Do");
+//        }
+
+//        int length = 100;
+//        System.out.println(length);
+//        length = length - 50;
+//        System.out.println(length);
+//        length = length * 2;
+//        System.out.println(length);
+//        length = length / 4;
+//        System.out.println(length);
+//        length--;
+//        System.out.println(length);
+
+
+//        int age = 1;
+//        System.out.println(age);
+//        age++; //means age = age + 1
+//        System.out.println(age);
+
+//        int a = 1337;
+//        int b = 42;
+//        int result = a * b; // Fix this
+//
+//        String multiplication = a + " * " + b + " = " + result;
+//        System.out.println(multiplication);
+//
 
 
 //        int a = 1337;
@@ -22,8 +59,6 @@ public class Example {
 //        String toPrint = a + " + " + b + " = " + result;
 //
 //        System.out.println(multiplication);
-    }
-}
 
 
 //        System.out.println("there is an integer " + 2);
@@ -37,7 +72,6 @@ public class Example {
 //
 //        String sentence = greeting + name + goodbye;
 //        System.out.println(sentence);
-
 
 
 //        int first = 3;
